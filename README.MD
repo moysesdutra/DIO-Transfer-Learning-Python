@@ -1,7 +1,7 @@
 # Bem vindo ao projeto de *Aplicação do método de *Transfer Learning* com Python*.
 
 Nesse projeto desafio proposto pela DIO foi realizada a aplicação do método de *Transfer Learning* em uma rede de Deep Learning na linguagem Python no ambiente COLAB para classificar um conjunto de imagens de cães e gatos.
-Todos esses estudos foram feitos seguindo a trilha do *bootcamp* **UNIMED BH :green_heart: com a DIO :muscle:** apresentado pelo especialista **Cassiano Peres**.
+Todos esses estudos foram feitos seguindo a trilha do *bootcamp* **UNIMED BH :green_heart: com a DIO :muscle:** apresentado pelo especialista **Diego Renan**.
 
 # Arquivos e pastas
 
@@ -42,7 +42,7 @@ Moysés Dutra da Silva
 
 # Welcome to the project *Transfer learning with Python*!
 
-In this project proposed by DIO, We applied a method transfer learning in an neural network to classify an dataset with images of dogs an cats  using Google Colab Notebook.  All these studies were carried out according to the trail from the UNIMED BH 💚 bootcamp with DIO 💪 presented by  **Cassiano Peres**.
+In this project proposed by DIO, We applied a method transfer learning in an neural network to classify an dataset with images of dogs an cats  using Google Colab Notebook.  All these studies were carried out according to the trail from the UNIMED BH 💚 bootcamp with DIO 💪 presented by  **Diego Renan**.
 
 # Files and Folders
 
